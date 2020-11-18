@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.0",
+    "webpack-dev-server": "2.11.2"
   },
   "devDependencies": {},
   "scripts": {
