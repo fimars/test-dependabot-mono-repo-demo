@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "http-proxy": "^1.18.0"
+    "http-proxy": "^1.17.0"
   },
   "devDependencies": {},
   "scripts": {
