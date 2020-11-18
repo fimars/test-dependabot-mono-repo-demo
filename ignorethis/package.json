@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "lodash.defaultsdeep": "^4.6.0"
+    "lodash.defaultsdeep": "^4.6.1"
   },
   "devDependencies": {},
   "scripts": {
