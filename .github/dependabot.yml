@@ -13,3 +13,12 @@ updates:
       interval: "daily"
     labels:
       - "proj2 dependencies"
+
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    target-branch: "mono"
+    labels:
+      - "dependencies"
+      - "mono"
